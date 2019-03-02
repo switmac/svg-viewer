@@ -1,5 +1,5 @@
 # Simple Image/SVG Viewer
-### Simply loads load the images or files in the passed directory and creates an HTML file for it be rendered.
+### Simply loads load the images or files in the passed directory and creates an HTML file for it to be rendered.
 
 ## How to use : 
 1. Download `svg-viewer` project
