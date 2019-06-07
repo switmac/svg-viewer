@@ -1,6 +1,7 @@
 :root {
   --game-plan-primary-header: 17pt;
   --game-plan-secondary-header: 14pt;
+  --theme-rgb-color: 0, 170, 229;
 }
 
 body {
