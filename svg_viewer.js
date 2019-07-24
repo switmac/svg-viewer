@@ -12,7 +12,8 @@ function getIconItem(svgPath, filename) {
 }
 
 function generateHtmlFile(html) {
-    var fileName = 'svg-viewer.html';
+    const customFilename = process.argv[3];
+    var fileName = customFilename ? customFilename+'.html' : 'svg-viewer.html';
     var stream = fs.createWriteStream(fileName);
 
     stream.once('open', function (fd) {
