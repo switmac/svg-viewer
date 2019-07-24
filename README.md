@@ -20,5 +20,5 @@ PS. This only supports one path at a time... watch out for multi paths update. :
 
 ![SVG Viewer](sample.png)
 
-## Sample Usage for Nultiple Icon Directories
+## Sample Usage for Multiple Icon Directories
 ![SVG Viewer](sample-commands.png)
